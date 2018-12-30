@@ -31,5 +31,5 @@ for i in range(0,500,100):
         #break
     # for i in m:
     # print(i)
-    print(len(m))
+    print(m)
 
